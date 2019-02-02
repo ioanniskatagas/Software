@@ -14,7 +14,7 @@ btn2.grid(column=1, row=0)
 
 #7
 btn3 = Button(window, text="7")
-btn3.grid(column=2, row =0)
+btn3.grid(column=2, row=0)
 
 #+
 btn4 = Button(window, text="+")
